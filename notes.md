@@ -1,5 +1,7 @@
 # FJ Retreat (Notes)
 
+## Day One
+
 - Preparation of lent starting today 14th February.
 - Learnt from Mark Gospel Chapter 18 Kingdom of GOD is in our hands and this is the time of fulfillement.
 - Proclaiming the Gospel of God in Chapter 14 and 15, Lent means we need to link and connect life with the Gospel (Energy) of God.
@@ -28,3 +30,20 @@
 - What enters from outside cannot defile a person. Hence Jesus declared all food as clean. What comes out from a person defiles the person. What's coming out from the HEART makes the person good or bad. Food simply enters the body and goes into the sewer. Those who are pure of heart should see GOD.
 - Matthew says if you see a brother from the HEART, the heavenly Father should free you. This means that when we see people as one united force, we become free from greed, hatred, and delusion.
 - We need to practice the good things in life, then they take deep root; for instance doing it 10-12 times. Bad things or unwholesome activities done 3-4 times becomes a part of you. There is a tendency in each person, where the person turns to the wholesome or unwholesome activities.
+
+## Day Two
+
+- Negative one is constantly doing work. Jesus destroyed the work.
+- Son of God was brought to destroy the work of the Devil.
+- Romans Chapter 1 21:33; all sins are connected by 1 ungrateful heart.
+- You feel importance of the eyes because we have pure consciousness, hence we love the pure gift.
+- Teslonian Chapter 21A says will of God (Energy) is for all the have one grateful heart.
+- Everyone does not have good job. We should thank The Self (God) for what we have.
+- If you fill your mind with evil things and desires of the world, you will not understand freedom from pain and suffering.
+- The mind is filled with weeds and seeds, we have to clean it so that we understand the word of God.
+
+## Day Three
+
+- That if you think about God then the evil one won't fill your mind with the evil things or thoughts.
+- When you feel heat inside, nothing sees you, outside it's too cold or not, you feel good.
+- If you walk outside in the terrible situation, then the situation changes whether it's hot or cold, your mind adapts to the situation.

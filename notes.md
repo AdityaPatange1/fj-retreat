@@ -47,3 +47,13 @@
 - That if you think about God then the evil one won't fill your mind with the evil things or thoughts.
 - When you feel heat inside, nothing sees you, outside it's too cold or not, you feel good.
 - If you walk outside in the terrible situation, then the situation changes whether it's hot or cold, your mind adapts to the situation.
+- In the lent season, keep some money outside in the box to give to the poor and donate to charity like Isha Foundation via Naga Wealth.
+- Believe in John (8:12); believe in light of life. Those who follow will not walk in darkness, they will have light of life. Which means when you follow the darkness, God makes the light appear using your mind's illumination.
+- When is the meaning of the lent; as we are in the lent time Jesus Master said "do this in memory of me, remember the salvation mystery".
+- We need to have the rememberences in life; these rememberences are mindfulness where we understand the special times God has prepared for us which is like our marriage, birth or important days like birth of our children.
+- Hebrew (14:16); we all need grace when we step by into the day because we feel sleepy this ensures the grace propels us forward and ensures we need God's presence in the fire of life.
+- God was doing fast and pray to get boons from prayers and penances by doing sacrifice hustle paid the price where we "hustle" means work hard, and then we get the "price" the gifts that we get because of our good deeds and benefits.
+- The tempter came but Jesus conquered the tempter; which means when we are deviated from the mission, we should invoke the power of MJ (Master Jesus) and get the power of life to complete the mission.
+- How Jesus has conquered the tempter; by simply knowing the Spirit of the last time he checked himself and his resolve to know God and resolve the fights.
+- When we concentrate on prayer, hearing the word the tempter needs to be conquered.
+- Within the soul, when God applies his grace on us he removes the sickness.

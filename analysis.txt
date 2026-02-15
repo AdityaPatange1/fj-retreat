@@ -1,0 +1,98 @@
+
+=== FJ Retreat NLP Report (Human Readable, No LLM) ===
+
+Text stats: 53 lines, 7 paragraphs, 925 tokens (after stopword filtering).
+
+Emotion signal (lexicon-based, weak heuristic):
+  Total emotion word hits: 24  (if 0, lexicon didn’t match your wording)
+  Top emotion: joy
+  Distribution (fraction of emotion hits):
+    - joy       : 54.2%  (0.542 / 1.00)
+    - reflection: 37.5%  (0.375 / 1.00)
+    - trust     : 8.3%  (0.083 / 1.00)
+    - sadness   : 0.0%  (0.000 / 1.00)
+    - anger     : 0.0%  (0.000 / 1.00)
+    - fear      : 0.0%  (0.000 / 1.00)
+
+Top keywords (TF-IDF terms/phrases, not a score):
+  god, life, jesus, when, us, have, should, energy, need, person, all, means, understand, word, within, people, gospel, heart
+
+Top terms by frequency (counts, unit = occurrences):
+  - god: 33
+  - life: 22
+  - jesus: 18
+  - when: 17
+  - energy: 11
+  - should: 11
+  - have: 11
+  - need: 10
+  - means: 9
+  - understand: 9
+  - all: 9
+  - word: 9
+
+Theme similarity (cosine similarity on TF-IDF; unitless, max = 1.00):
+  - Mindfulness & Clarity: 0.100 / 1.00
+  - Gospel as Message : 0.086 / 1.00
+  - Grace & Renewal   : 0.059 / 1.00
+  - Lent & Practice   : 0.058 / 1.00
+  - Kingdom & Calling : 0.035 / 1.00
+
+Paragraph emotion sample (first up to 12 paragraphs):
+
+  Paragraph 1 — top emotion: joy (hits=0)
+    No lexicon hits in this paragraph (try expanding the lexicon).
+    Preview: # FJ Retreat (Notes)
+
+  Paragraph 2 — top emotion: joy (hits=0)
+    No lexicon hits in this paragraph (try expanding the lexicon).
+    Preview: ## Day One
+
+  Paragraph 3 — top emotion: joy (hits=12)
+    joy: 50.0% (0.500 / 1.00)
+    reflection: 50.0% (0.500 / 1.00)
+    Preview: - Preparation of lent starting today 14th February.
+- Learnt from Mark Gospel Chapter 18 Kingdom of GOD is in our hands and this is the time…
+
+  Paragraph 4 — top emotion: joy (hits=0)
+    No lexicon hits in this paragraph (try expanding the lexicon).
+    Preview: ## Day Two
+
+  Paragraph 5 — top emotion: reflection (hits=3)
+    reflection: 66.7% (0.667 / 1.00)
+    joy: 33.3% (0.333 / 1.00)
+    Preview: - Negative one is constantly doing work. Jesus destroyed the work.
+- Son of God was brought to destroy the work of the Devil.
+- Romans Chapt…
+
+  Paragraph 6 — top emotion: joy (hits=0)
+    No lexicon hits in this paragraph (try expanding the lexicon).
+    Preview: ## Day Three
+
+  Paragraph 7 — top emotion: joy (hits=9)
+    joy: 66.7% (0.667 / 1.00)
+    trust: 22.2% (0.222 / 1.00)
+    Preview: - That if you think about God then the evil one won't fill your mind with the evil things or thoughts.
+- When you feel heat inside, nothing …
+
+Representative snippets (cosine similarity; unitless, max = 1.00):
+
+  Grace:
+    - [0.488 / 1.00] - Our lives are renewed by the Grace of God; grace and truth came through Jesus Christ means he embodied these qualities.
+    - [0.123 / 1.00] - Hebrew (14:16); we all need grace when we step by into the day because we feel sleepy this ensures the grace propels us forward and ensures we need God's presence in the fire of life.
+    - [0.099 / 1.00] - Within the soul, when God applies his grace on us he removes the sickness.
+
+  Kingdom:
+    - [0.365 / 1.00] - Learnt from Mark Gospel Chapter 18 Kingdom of GOD is in our hands and this is the time of fulfillement.
+
+  Gospel:
+    - [0.295 / 1.00] - Jesus came to proclaim the Gospel of God, understand the energy of God and propagate it through his teachings. He saves his people through the gospel and hence we need this energy in our life.
+    - [0.215 / 1.00] - Jesus had the Ultimate Gospel of God. Gospel means message or rubric, but we can understand it simply as an Energy Force Field (EFF).
+    - [0.162 / 1.00] - Proclaiming the Gospel of God in Chapter 14 and 15, Lent means we need to link and connect life with the Gospel (Energy) of God.
+    - [0.095 / 1.00] - Learnt from Mark Gospel Chapter 18 Kingdom of GOD is in our hands and this is the time of fulfillement.
+
+  Lent:
+    - [0.321 / 1.00] - Proclaiming the Gospel of God in Chapter 14 and 15, Lent means we need to link and connect life with the Gospel (Energy) of God.
+    - [0.279 / 1.00] - Preparation of lent starting today 14th February.
+    - [0.130 / 1.00] - When is the meaning of the lent; as we are in the lent time Jesus Master said "do this in memory of me, remember the salvation mystery".
+    - [0.060 / 1.00] - In this lent season, we should read the 4 gospels and embody the understanding so that it becomes a part of our body, mind and energy systems in a holistic way.

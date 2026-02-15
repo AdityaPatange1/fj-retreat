@@ -57,3 +57,6 @@
 - How Jesus has conquered the tempter; by simply knowing the Spirit of the last time he checked himself and his resolve to know God and resolve the fights.
 - When we concentrate on prayer, hearing the word the tempter needs to be conquered.
 - Within the soul, when God applies his grace on us he removes the sickness.
+- When the house is not clean, you yourself get the trouble because the presence of the Lord does not descend.
+- Wash your clothes on time, don't keep stinking clothes because others may get trouble by it as it can disturb the energy body.
+- Find time to help God and not gossip.
